@@ -15,9 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# sup <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<!-- # sup <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> -->
 <p>
-<img class="rounded-corners" src="https://github.com/SathvikTn.png" width="100" height="100"/>
+<img src="https://github.com/SathvikTn.png" width="100" height="100"/>
  
 <!-- ![avatar](https://github.com/SathvikTn.png?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d) -->
  
@@ -26,6 +26,8 @@ Here are some ideas to get you started:
 <br>
 ## My Activity
 [![Sathvik's  github streak](https://github-readme-streak-stats.herokuapp.com/?user=SathvikTn&theme=blue-green)](https://github.com/SathvikTn/github-readme-streak-stats)
-</p>
-
+<br>
+ ## Most Used Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SathvikTn&layout=compact)](https://github.com/SathvikTn/github-readme-stats)
+
+</p>
