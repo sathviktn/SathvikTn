@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 ## My Activity
 [![Sathvik's  github streak](https://github-readme-streak-stats.herokuapp.com/?user=SathvikTn&theme=blue-green)](https://github.com/SathvikTn/github-readme-streak-stats)
 <br>
+ <!--
  ## Most Used Languages
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SathvikTn&layout=compact)](https://github.com/SathvikTn/github-readme-stats)
-
+-->
 </p>
