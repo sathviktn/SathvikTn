@@ -14,3 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# sup <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
+<p>
+<img src="https://github.com/vamshipv/vamshipv/blob/main/Banner.png" width="100%" height="150" border="10"/>
+
+## My Github Stats
+[![Sathvik's  github stats](https://github-readme-stats.vercel.app/api?username=SathvikTn&theme=blue-green)](https://github.com/SathvikTn/github-readme-stats)
+<br>
+## My Activity
+[![Sathvik's  github streak](https://github-readme-streak-stats.herokuapp.com/?user=SathvikTn&theme=blue-green)](https://github.com/SathvikTn/github-readme-streak-stats)
+</p>
+
+<!-- [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vamshipv&layout=compact)](https://github.com/vamshipv/github-readme-stats) -->
