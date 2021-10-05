@@ -15,14 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<style>
-   img.rounded-corners {
-  border-radius: 50%;
-}
-</style>
 # sup <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <p>
-<img class="rounded-corners" src="https://github.com/SathvikTn.png" width="100" height="100" style="border-radius:50%" />
+<img class="rounded-corners" src="https://github.com/SathvikTn.png" width="100" height="100"/>
+ ![avatar](https://github.com/SathvikTn.png?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d)
 
 ## My Github Stats
 [![Sathvik's  github stats](https://github-readme-stats.vercel.app/api?username=SathvikTn&theme=blue-green)](https://github.com/SathvikTn/github-readme-stats)
