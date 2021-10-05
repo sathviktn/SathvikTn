@@ -22,10 +22,10 @@ Here are some ideas to get you started:
 <!-- ![avatar](https://github.com/SathvikTn.png?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d) -->
  
 ## My Github Stats
-[![Sathvik's  github stats](https://github-readme-stats.vercel.app/api?username=SathvikTn&theme=dark&count_private=true)]
+![Sathvik's  github stats](https://github-readme-stats.vercel.app/api?username=SathvikTn&theme=dark&count_private=true)
  <br>
 ## My Activity
-[![Sathvik's  github streak](https://github-readme-streak-stats.herokuapp.com/?user=SathvikTn&theme=dark&count_private=true)]
+![Sathvik's  github streak](https://github-readme-streak-stats.herokuapp.com/?user=SathvikTn&theme=dark&count_private=true)
 <br>
  <!--
 (https://github.com/SathvikTn/github-readme-streak-stats)
