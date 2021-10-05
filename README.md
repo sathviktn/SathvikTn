@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 # sup <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">
 <p>
-<img src="https://github.com/SathvikTn.png" width="100%" height="150" border="10"/>
+<img src="https://github.com/SathvikTn.png" width="460" height="4600" border="10"/>
 
 ## My Github Stats
 [![Sathvik's  github stats](https://github-readme-stats.vercel.app/api?username=SathvikTn&theme=blue-green)](https://github.com/SathvikTn/github-readme-stats)
