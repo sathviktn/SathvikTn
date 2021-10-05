@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <style>
-   img-logo {
+   img.img-logo {
   border-radius: 50%;
 }
 </style>
