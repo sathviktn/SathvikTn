@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <!-- # sup <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> -->
 <p>
-<img src="https://github.com/SathvikTn.png" width="100" height="100"/>
+<!-- <img src="https://github.com/SathvikTn.png" width="100" height="100"/> -->
  
 <!-- ![avatar](https://github.com/SathvikTn.png?v=4&h=100&w=100&fit=cover&mask=circle&maxage=7d) -->
  
