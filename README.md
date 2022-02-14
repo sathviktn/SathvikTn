@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- # sup <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> -->
-[![Header](https://github.com/SathvikTn/SathvikTn/blob/6b48fc0fb6f6ce86ebb2f0521d5fb0543a437cd3/avatar-dark.jpg "Avatar")](https://github.com/SathvikTn/SathvikTn/blob/main/avatar-dark.jpg)
+[![avatar](https://github.com/SathvikTn/SathvikTn/blob/6b48fc0fb6f6ce86ebb2f0521d5fb0543a437cd3/avatar-dark.jpg?border-radius=50% "Avatar")](https://github.com/SathvikTn/SathvikTn/blob/main/avatar-dark.jpg)
 <p>
 <!-- <img src="https://github.com/SathvikTn.png" width="100" height="100"/> -->
  
