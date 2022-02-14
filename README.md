@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- # sup <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> -->
+[![Header](https://raw.githubusercontent.com/SathvikTn/SathvikTn/blob/main/avatar-dark.jpg "Header")](https://github.com/SathvikTn/SathvikTn/blob/main/avatar-dark.jpg)
 <p>
 <!-- <img src="https://github.com/SathvikTn.png" width="100" height="100"/> -->
  
