@@ -54,7 +54,7 @@
 
 
 
-### Devops  
+### Devops
 <div align="center">  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="75" />  
 <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="75" />  
@@ -65,7 +65,7 @@
 <br/>  
 
 
-## Github Stats  
+## Github Stats
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathviktn&theme=dark&hide_border=true&layout=compact" align="center" style="width: 100%" />  
 
@@ -82,7 +82,7 @@
 <br/>
 
 
-## Connect with me  
+## Find me !
 <div align="center">
 <a href="https://github.com/SathvikTn" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
