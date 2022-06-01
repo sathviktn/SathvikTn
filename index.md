@@ -10,7 +10,7 @@
 
   
 ## My Skill Set
-
+<html>
 <table>
   <tr>
     <td valign="top" width="33%">
@@ -76,7 +76,7 @@
     </td>
   </tr>
 </table>
-
+</html>
 
   
 ## Find me !
