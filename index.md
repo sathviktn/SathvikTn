@@ -1,4 +1,6 @@
-# Welcome to Sathvik TN's GitHub Pages ![](https://github.dev/SathvikTn/SathvikTn/blob/2ace155bd69ffe422bce11b66b5fc2df946ec5d6/sathviktn_banner_5sec.gif) ##
+# Welcome to Sathvik TN's GitHub Pages 
+
+![](https://github.dev/SathvikTn/SathvikTn/blob/2ace155bd69ffe422bce11b66b5fc2df946ec5d6/sathviktn_banner_5sec.gif)
 
 ## Hello 👋 I'm Sathvik
 
