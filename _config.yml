@@ -2,3 +2,6 @@ theme: jekyll-theme-cayman
 
 title: Sathvik T N
 description: Welcome to my GitHub Pages
+
+url: 'https://sathviktn.github.io/' # url
+baseurl: 'SathvikTn/'  # repo
