@@ -1,7 +1,5 @@
 <img src="{{site.baseurl | prepend: site.url}}/SathvikTn/blob/5b7d9364955113d3624db85bedfffd371c2e27e6/Sathviktn_banner_5sec.gif?raw=true" alt="sathviktn_banner" />
 
-
-
 ## Hello 👋 I'm Sathvik
 
 ### 👨‍💻 A Full-Stack Developer 🏡 working remotely since 2020 🚀
@@ -61,19 +59,15 @@
 
 ## Github Stats
 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathviktn&theme=dark&hide_border=true&layout=compact" align="center" style="width: 100%" />  
+
 <table>
   <tr>
-    <td valign="top" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sathviktn&theme=dark&hide_border=true&layout=compact" 
-           align="center" style="width: 100%" />  
+    <td valign="top" width="50%">
+      <img src="https://github-readme-stats.vercel.app/api?username=SathvikTn&show_icons=true&theme=dark&count_private=true&hide_border=true" align="center" style="width: 100%" />
     </td>
-    <td valign="top" width="33%">
-      <img src="https://github-readme-stats.vercel.app/api?username=SathvikTn&show_icons=true&theme=dark&count_private=true&hide_border=true" 
-           align="center" style="width: 100%" />
-    </td>
-    <td valign="top" width="33%">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SathvikTn&theme=dark&count_private=true" 
-           align="center" style="width: 100%" />
+    <td valign="top" width="50%">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=SathvikTn&theme=dark&count_private=true" align="center" style="width: 100%" />
     </td>
   </tr>
 </table>
