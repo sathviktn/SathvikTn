@@ -11,7 +11,7 @@
 ### ⚡ Obvious fact: I love tech 💻
 
 ## My Skill Set
-<html>
+
 <table>
   <tr>
     <td valign="top" width="33%">
@@ -79,7 +79,6 @@
 </table>
 </html>
 
-  
 ## Find me !
 
  [![github](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)](https://github.com/SathvikTn)
