@@ -1,4 +1,4 @@
-<img src="{{site.baseurl | prepend: site.url}}Sathviktn_banner_5sec.gif" alt="sathviktn_banner" />
+<img src="{{site.baseurl | prepend: site.url}}/SathvikTn/blob/main/Sathviktn_banner_5sec.gif" alt="sathviktn_banner" />
 
 ## Hello 👋 I'm Sathvik
 
