@@ -1,6 +1,6 @@
 ## Welcome to Sathvik TN's GitHub Pages
 
-<img src="https://github.com/SathvikTn/SathvikTn/blob/e510cf51021c9972aa615021f9c05d1a0bb2e4cb/Sathviktn_banner_5sec.gif"/>
+<img src="https://github.com/SathvikTn/SathvikTn/blob/e510cf51021c9972aa615021f9c05d1a0bb2e4cb/sathviktn_banner_5sec.gif"/>
 
 ## <div align="center">Hello 👋 I'm Sathvik</div>  
 
