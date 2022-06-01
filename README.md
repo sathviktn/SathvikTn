@@ -2,7 +2,7 @@
 
 ## <div align="center">Hello 👋 I'm Sathvik</div>  
 
-#### <div align="center"> 👨‍💻 A full-time full-stack developer 🏡 working remotely since 2020 🚀
+#### <div align="center"> 👨‍💻 A Full-Stack Developer 🏡 working remotely since 2020 🚀
 </div>
 
 #### <div align="center">🌱 I’m currently learning Cloud ☁️ and Security 👽
