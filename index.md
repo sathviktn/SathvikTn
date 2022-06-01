@@ -16,7 +16,7 @@
   <tr>
     <td valign="top" width="33%">
 
-<h3> Frontend  </h3>
+<h3> Frontend </h3>
       <div align="center">  
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="75" />  
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="75" />  
@@ -30,7 +30,7 @@
     </td>
     <td valign="top" width="33%">
       
-### Backend  
+<h3> Backend </h3>
       <div align="center">  
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="75" />  
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="75" />  
@@ -50,7 +50,7 @@
     </td>
     <td valign="top" width="33%">
 
-### Devops
+<h3> Devops </h3>
       <div align="center">  
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dotnetcore.png" alt=".Net Core" height="75" />  
         <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/microsoft_azure-icon.svg" alt="Azure" height="75" />  
