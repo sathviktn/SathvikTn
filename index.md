@@ -1,4 +1,4 @@
-![sathviktn_banner](https://github.com/SathvikTn/SathvikTn/blob/5b7d9364955113d3624db85bedfffd371c2e27e6/Sathviktn_banner_5sec.gif)
+<img src="https://github.com/SathvikTn/SathvikTn/blob/5b7d9364955113d3624db85bedfffd371c2e27e6/Sathviktn_banner_5sec.gif" alt="sathviktn_banner" />
 
 ## Hello 👋 I'm Sathvik
 
@@ -8,7 +8,6 @@
 
 ### ⚡ Obvious fact: I love tech 💻
 
-  
 ## My Skill Set
 <html>
 <table>
