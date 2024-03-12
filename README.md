@@ -1,4 +1,4 @@
-<img src="https://github.com/SathvikTn/SathvikTn/blob/e510cf51021c9972aa615021f9c05d1a0bb2e4cb/Sathvik_-_Cover.gif"/>
+<img src="https://github.com/sathviktn/SathvikTn/blob/a65cde3e681862bc2d91dfdc0269b262ebb26388/Sathvik_-_Cover.gif"/>
 
 ## <div align="center">Hello 👋 I'm Sathvik</div>  
 
